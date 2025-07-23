@@ -6,7 +6,6 @@ Introduction to using Groq API
 2. Open the terminal in the codespace
 3. Run the following command to install the required packages:
     ```bash
-    GROQ_API_KEY="your_actual_api_key"
     pip install groq
     ```
 4. Replace the values inside the messages request
